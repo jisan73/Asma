@@ -15,19 +15,18 @@ Contact Facebook & WhatsApp 👇
 ## <b>Installation</b>
 
 ```
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip install requests
-$ pip install mechanize
-$ pip install BeautifulSoup4
-$ pip install rich
-$ pkg install git
-$ git clone 
-$
-$
-
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pip install requests
+pip install mechanize
+pip install BeautifulSoup4
+pip install rich
+pkg install git
+git clone https://github.com/jisan73/Asma
+cd Asma
+python JISAN.py
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
 ```
